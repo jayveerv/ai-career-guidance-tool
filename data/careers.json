@@ -1,0 +1,2196 @@
+[
+  {
+    "id": "software_developer",
+    "name": "Software Developer",
+    "category": "Engineering and Technology",
+    "streams": [
+      "PCM"
+    ],
+    "riasec": "ICR",
+    "subjects": [
+      "computers",
+      "maths"
+    ],
+    "skills": [
+      "coding",
+      "logic",
+      "teamwork",
+      "detail"
+    ],
+    "summary": "Designs, writes and tests the software behind apps, websites and business systems.",
+    "day": "Write code, fix bugs, review teammates' code, plan features in short sprints.",
+    "education": "B.Tech / BE in CS or IT, or BCA + MCA",
+    "exams": [
+      "JEE Main",
+      "State CETs (e.g. GUJCET)"
+    ],
+    "salary_entry": "4-8",
+    "salary_mid": "15-30",
+    "roadmap": [
+      "Learn one language well (Python or Java)",
+      "Learn data structures and algorithms",
+      "Build 3-4 projects and put them on GitHub",
+      "Do an internship",
+      "Prepare for coding interviews and apply"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Programming in Python / Java"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "Data Structures and Algorithms"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Web development"
+      }
+    ],
+    "keywords": [
+      "software",
+      "developer",
+      "programmer",
+      "coding",
+      "app",
+      "it",
+      "computer"
+    ]
+  },
+  {
+    "id": "data_scientist",
+    "name": "Data Scientist",
+    "category": "Engineering and Technology",
+    "streams": [
+      "PCM",
+      "COM"
+    ],
+    "riasec": "ICE",
+    "subjects": [
+      "maths",
+      "computers",
+      "economics"
+    ],
+    "skills": [
+      "numbers",
+      "coding",
+      "research",
+      "logic"
+    ],
+    "summary": "Finds patterns in data and builds models that help companies make decisions.",
+    "day": "Clean data, build and test models, make charts, explain results to managers.",
+    "education": "B.Tech / B.Sc in CS, Maths or Statistics; M.Sc / M.Tech in Data Science helps",
+    "exams": [
+      "JEE Main",
+      "IIT JAM (for M.Sc)"
+    ],
+    "salary_entry": "6-10",
+    "salary_mid": "18-35",
+    "roadmap": [
+      "Get strong in statistics and Python",
+      "Learn SQL and pandas",
+      "Learn machine learning basics",
+      "Do Kaggle projects",
+      "Build a portfolio and apply"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Python for Data Science"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "Introduction to Machine Learning"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Statistics"
+      }
+    ],
+    "keywords": [
+      "data",
+      "analytics",
+      "machine learning",
+      "statistics",
+      "ai",
+      "scientist"
+    ]
+  },
+  {
+    "id": "ai_ml_engineer",
+    "name": "AI / ML Engineer",
+    "category": "Engineering and Technology",
+    "streams": [
+      "PCM"
+    ],
+    "riasec": "IRC",
+    "subjects": [
+      "maths",
+      "computers"
+    ],
+    "skills": [
+      "coding",
+      "logic",
+      "research",
+      "numbers"
+    ],
+    "summary": "Builds and deploys artificial intelligence systems such as chatbots, vision and prediction models.",
+    "day": "Train models, tune them, put them into apps, monitor how they perform.",
+    "education": "B.Tech in CS / AI and Data Science; M.Tech helps for research roles",
+    "exams": [
+      "JEE Main",
+      "GATE (for M.Tech)"
+    ],
+    "salary_entry": "6-12",
+    "salary_mid": "20-40",
+    "roadmap": [
+      "Master Python, linear algebra and probability",
+      "Learn ML and deep learning",
+      "Work with real datasets",
+      "Learn to deploy models",
+      "Publish projects or papers"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Deep Learning"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "Introduction to Machine Learning"
+      }
+    ],
+    "keywords": [
+      "ai",
+      "artificial intelligence",
+      "machine learning",
+      "deep learning",
+      "robot"
+    ]
+  },
+  {
+    "id": "cyber_security_analyst",
+    "name": "Cyber Security Analyst",
+    "category": "Engineering and Technology",
+    "streams": [
+      "PCM"
+    ],
+    "riasec": "ICR",
+    "subjects": [
+      "computers",
+      "maths"
+    ],
+    "skills": [
+      "logic",
+      "detail",
+      "coding",
+      "research"
+    ],
+    "summary": "Protects organisations from hackers by monitoring systems and responding to attacks.",
+    "day": "Watch security alerts, investigate incidents, test systems for weaknesses, write reports.",
+    "education": "B.Tech / BCA in CS; M.Tech in Cyber Security helps",
+    "exams": [
+      "JEE Main",
+      "GATE"
+    ],
+    "salary_entry": "4-8",
+    "salary_mid": "12-30",
+    "roadmap": [
+      "Learn networking and Linux",
+      "Learn security basics (CompTIA Security+ level)",
+      "Practise on TryHackMe / HackTheBox",
+      "Get a certification",
+      "Apply for SOC analyst roles"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Cyber Security and Privacy"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Computer Networks"
+      },
+      {
+        "platform": "Skill India Digital",
+        "topic": "Cyber security"
+      }
+    ],
+    "keywords": [
+      "cyber",
+      "security",
+      "hacker",
+      "hacking",
+      "ethical hacking",
+      "forensics",
+      "soc"
+    ]
+  },
+  {
+    "id": "cloud_devops_engineer",
+    "name": "Cloud / DevOps Engineer",
+    "category": "Engineering and Technology",
+    "streams": [
+      "PCM"
+    ],
+    "riasec": "RIC",
+    "subjects": [
+      "computers"
+    ],
+    "skills": [
+      "hands_on",
+      "coding",
+      "logic",
+      "teamwork"
+    ],
+    "summary": "Runs the servers and automation that keep websites and apps online and fast.",
+    "day": "Set up cloud servers, automate deployments, fix outages, reduce costs.",
+    "education": "B.Tech / BCA in CS or IT",
+    "exams": [
+      "JEE Main"
+    ],
+    "salary_entry": "5-9",
+    "salary_mid": "15-30",
+    "roadmap": [
+      "Learn Linux and networking",
+      "Learn one cloud (AWS or Azure)",
+      "Learn Docker, Kubernetes and CI/CD",
+      "Earn a cloud certification",
+      "Build and deploy projects"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Cloud Computing"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Linux"
+      }
+    ],
+    "keywords": [
+      "cloud",
+      "devops",
+      "aws",
+      "azure",
+      "server"
+    ]
+  },
+  {
+    "id": "ui_ux_designer",
+    "name": "UI / UX Designer",
+    "category": "Engineering and Technology",
+    "streams": [
+      "PCM",
+      "ARTS",
+      "COM"
+    ],
+    "riasec": "AIS",
+    "subjects": [
+      "art_design",
+      "computers"
+    ],
+    "skills": [
+      "creativity",
+      "visual",
+      "empathy",
+      "communication"
+    ],
+    "summary": "Designs how apps and websites look and feel so they are easy and pleasant to use.",
+    "day": "Talk to users, sketch screens, build prototypes in Figma, test with real people.",
+    "education": "B.Des / B.Tech / any degree with a strong portfolio",
+    "exams": [
+      "UCEED",
+      "NID DAT"
+    ],
+    "salary_entry": "4-7",
+    "salary_mid": "12-25",
+    "roadmap": [
+      "Learn design basics: colour, type, layout",
+      "Learn Figma",
+      "Study UX research methods",
+      "Redesign 3 real apps for your portfolio",
+      "Apply for internships"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Design Thinking"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "User Interface Design"
+      }
+    ],
+    "keywords": [
+      "design",
+      "ui",
+      "ux",
+      "figma",
+      "app design",
+      "web design"
+    ]
+  },
+  {
+    "id": "civil_engineer",
+    "name": "Civil Engineer",
+    "category": "Engineering and Technology",
+    "streams": [
+      "PCM"
+    ],
+    "riasec": "RIC",
+    "subjects": [
+      "maths",
+      "physics",
+      "geography"
+    ],
+    "skills": [
+      "hands_on",
+      "numbers",
+      "detail",
+      "leadership"
+    ],
+    "summary": "Plans and builds roads, bridges, buildings, dams and water systems.",
+    "day": "Visit sites, check designs and drawings, manage workers, control cost and safety.",
+    "education": "B.Tech / BE in Civil Engineering",
+    "exams": [
+      "JEE Main",
+      "GATE",
+      "ESE / State PSC (government jobs)"
+    ],
+    "salary_entry": "3-6",
+    "salary_mid": "10-20",
+    "roadmap": [
+      "Get a civil engineering degree",
+      "Learn AutoCAD and STAAD Pro",
+      "Do site internships",
+      "Prepare for GATE or state engineering exams",
+      "Gain site experience"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Structural Analysis"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "AutoCAD / Engineering Drawing"
+      }
+    ],
+    "keywords": [
+      "civil",
+      "construction",
+      "building",
+      "bridge",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "mechanical_engineer",
+    "name": "Mechanical Engineer",
+    "category": "Engineering and Technology",
+    "streams": [
+      "PCM"
+    ],
+    "riasec": "RIC",
+    "subjects": [
+      "physics",
+      "maths"
+    ],
+    "skills": [
+      "hands_on",
+      "logic",
+      "detail",
+      "teamwork"
+    ],
+    "summary": "Designs and improves machines, engines, vehicles and manufacturing systems.",
+    "day": "Design parts in CAD, test prototypes, run production lines, solve machine problems.",
+    "education": "B.Tech / BE in Mechanical Engineering",
+    "exams": [
+      "JEE Main",
+      "GATE"
+    ],
+    "salary_entry": "3-6",
+    "salary_mid": "10-20",
+    "roadmap": [
+      "Get a mechanical engineering degree",
+      "Learn CAD (SolidWorks / CATIA)",
+      "Do an industry internship",
+      "Pick a field: automobile, energy or manufacturing",
+      "Prepare for GATE or PSU jobs"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Engineering Mechanics"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "Machine Design"
+      }
+    ],
+    "keywords": [
+      "mechanical",
+      "machine",
+      "automobile",
+      "car",
+      "engine",
+      "manufacturing"
+    ]
+  },
+  {
+    "id": "electrical_engineer",
+    "name": "Electrical Engineer",
+    "category": "Engineering and Technology",
+    "streams": [
+      "PCM"
+    ],
+    "riasec": "RIC",
+    "subjects": [
+      "physics",
+      "maths"
+    ],
+    "skills": [
+      "hands_on",
+      "logic",
+      "detail",
+      "numbers"
+    ],
+    "summary": "Works on power generation, electric vehicles, motors and the electricity grid.",
+    "day": "Design and test circuits and power systems, maintain equipment, ensure safety.",
+    "education": "B.Tech / BE in Electrical Engineering",
+    "exams": [
+      "JEE Main",
+      "GATE"
+    ],
+    "salary_entry": "3-6",
+    "salary_mid": "10-20",
+    "roadmap": [
+      "Get an electrical engineering degree",
+      "Learn MATLAB and circuit simulation",
+      "Intern at a power or EV company",
+      "Prepare for GATE / PSU exams",
+      "Specialise (EV, renewables, power)"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Electrical Machines"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "Power Systems"
+      }
+    ],
+    "keywords": [
+      "electrical",
+      "electricity",
+      "power",
+      "ev",
+      "electric vehicle",
+      "solar"
+    ]
+  },
+  {
+    "id": "electronics_engineer",
+    "name": "Electronics / VLSI Engineer",
+    "category": "Engineering and Technology",
+    "streams": [
+      "PCM"
+    ],
+    "riasec": "IRC",
+    "subjects": [
+      "physics",
+      "maths",
+      "computers"
+    ],
+    "skills": [
+      "logic",
+      "detail",
+      "hands_on",
+      "coding"
+    ],
+    "summary": "Designs chips, circuits and embedded systems used in phones, cars and gadgets.",
+    "day": "Design and simulate circuits, write firmware, test boards in the lab.",
+    "education": "B.Tech / BE in Electronics and Communication; M.Tech for VLSI",
+    "exams": [
+      "JEE Main",
+      "GATE"
+    ],
+    "salary_entry": "4-8",
+    "salary_mid": "12-30",
+    "roadmap": [
+      "Get an ECE degree",
+      "Learn digital electronics and Verilog",
+      "Build embedded projects (Arduino, ESP32)",
+      "Do an M.Tech or VLSI course",
+      "Apply to chip companies"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Digital Circuits"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "VLSI Design"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "Embedded Systems"
+      }
+    ],
+    "keywords": [
+      "electronics",
+      "vlsi",
+      "chip",
+      "semiconductor",
+      "embedded",
+      "circuit"
+    ]
+  },
+  {
+    "id": "doctor",
+    "name": "Doctor (MBBS)",
+    "category": "Medical and Health",
+    "streams": [
+      "PCB"
+    ],
+    "riasec": "ISR",
+    "subjects": [
+      "biology",
+      "chemistry",
+      "physics"
+    ],
+    "skills": [
+      "empathy",
+      "detail",
+      "research",
+      "discipline"
+    ],
+    "summary": "Diagnoses and treats illness, and can specialise as a surgeon, paediatrician and more.",
+    "day": "See patients, examine and order tests, prescribe treatment, do night duties.",
+    "education": "MBBS (5.5 years) then MD / MS for specialisation",
+    "exams": [
+      "NEET UG",
+      "NEET PG"
+    ],
+    "salary_entry": "8-12",
+    "salary_mid": "20-50",
+    "roadmap": [
+      "Score well in PCB in Class 12",
+      "Crack NEET UG",
+      "Complete MBBS and internship",
+      "Choose a specialisation via NEET PG",
+      "Practise or join a hospital"
+    ],
+    "courses": [
+      {
+        "platform": "DIKSHA",
+        "topic": "NEET Biology preparation"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Human Physiology"
+      }
+    ],
+    "keywords": [
+      "doctor",
+      "mbbs",
+      "medical",
+      "surgeon",
+      "hospital",
+      "medicine"
+    ]
+  },
+  {
+    "id": "nurse",
+    "name": "Nurse",
+    "category": "Medical and Health",
+    "streams": [
+      "PCB"
+    ],
+    "riasec": "SRC",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "skills": [
+      "empathy",
+      "detail",
+      "teamwork",
+      "discipline"
+    ],
+    "summary": "Cares for patients, gives medicines and supports doctors in hospitals and clinics.",
+    "day": "Monitor patients, give medicines and injections, keep records, comfort families.",
+    "education": "B.Sc Nursing or GNM",
+    "exams": [
+      "Nursing entrance tests (state / AIIMS)"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "6-12",
+    "roadmap": [
+      "Take PCB in Class 11-12",
+      "Join B.Sc Nursing",
+      "Complete clinical training",
+      "Register with the nursing council",
+      "Specialise (ICU, OT) or go abroad"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Nursing"
+      },
+      {
+        "platform": "Skill India Digital",
+        "topic": "Healthcare"
+      }
+    ],
+    "keywords": [
+      "nurse",
+      "nursing",
+      "patient care",
+      "hospital"
+    ]
+  },
+  {
+    "id": "pharmacist",
+    "name": "Pharmacist",
+    "category": "Medical and Health",
+    "streams": [
+      "PCB",
+      "PCM"
+    ],
+    "riasec": "ICS",
+    "subjects": [
+      "chemistry",
+      "biology"
+    ],
+    "skills": [
+      "detail",
+      "research",
+      "communication",
+      "numbers"
+    ],
+    "summary": "Prepares and dispenses medicines and advises on safe use; can work in pharma companies.",
+    "day": "Check prescriptions, dispense medicines, advise patients, or work on drug production and quality.",
+    "education": "B.Pharm (4 years) or D.Pharm; M.Pharm for research",
+    "exams": [
+      "GPAT (for M.Pharm)",
+      "State pharmacy CETs"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "8-15",
+    "roadmap": [
+      "Take PCB or PCM",
+      "Complete B.Pharm",
+      "Register as a pharmacist",
+      "Choose retail, hospital or industry",
+      "M.Pharm or MBA for growth"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Pharmaceutical sciences"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Pharmacology"
+      }
+    ],
+    "keywords": [
+      "pharmacy",
+      "pharmacist",
+      "medicine",
+      "pharma",
+      "drug"
+    ]
+  },
+  {
+    "id": "physiotherapist",
+    "name": "Physiotherapist",
+    "category": "Medical and Health",
+    "streams": [
+      "PCB"
+    ],
+    "riasec": "SRI",
+    "subjects": [
+      "biology",
+      "sports"
+    ],
+    "skills": [
+      "empathy",
+      "hands_on",
+      "communication",
+      "discipline"
+    ],
+    "summary": "Helps people recover movement after injury, surgery or illness through exercise and therapy.",
+    "day": "Assess patients, plan exercise programmes, give hands-on therapy, track recovery.",
+    "education": "BPT (4.5 years); MPT to specialise",
+    "exams": [
+      "University entrance tests"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "8-15",
+    "roadmap": [
+      "Take PCB",
+      "Complete BPT",
+      "Do clinical internship",
+      "Specialise (sports, neuro, ortho)",
+      "Work in a hospital, sports team or own clinic"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Anatomy"
+      },
+      {
+        "platform": "Skill India Digital",
+        "topic": "Healthcare"
+      }
+    ],
+    "keywords": [
+      "physio",
+      "physiotherapy",
+      "rehabilitation",
+      "sports injury"
+    ]
+  },
+  {
+    "id": "psychologist",
+    "name": "Psychologist / Counsellor",
+    "category": "Medical and Health",
+    "streams": [
+      "ARTS",
+      "PCB",
+      "COM",
+      "PCM"
+    ],
+    "riasec": "SIA",
+    "subjects": [
+      "biology",
+      "languages"
+    ],
+    "skills": [
+      "empathy",
+      "communication",
+      "research",
+      "writing"
+    ],
+    "summary": "Helps people with stress, emotions and behaviour through counselling and therapy.",
+    "day": "Listen to clients, assess problems, run therapy sessions, keep confidential notes.",
+    "education": "BA / B.Sc Psychology, MA Psychology; M.Phil for clinical practice",
+    "exams": [
+      "CUET",
+      "University entrance tests"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "8-18",
+    "roadmap": [
+      "Study psychology at graduation",
+      "Do an MA in Psychology",
+      "Get supervised practice hours",
+      "Choose clinical, school or organisational psychology",
+      "Register (RCI for clinical)"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Introduction to Psychology"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "Psychology of Everyday Life"
+      }
+    ],
+    "keywords": [
+      "psychology",
+      "counsellor",
+      "therapist",
+      "mental health"
+    ]
+  },
+  {
+    "id": "dentist",
+    "name": "Dentist (BDS)",
+    "category": "Medical and Health",
+    "streams": [
+      "PCB"
+    ],
+    "riasec": "ISR",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "skills": [
+      "detail",
+      "hands_on",
+      "empathy",
+      "discipline"
+    ],
+    "summary": "Treats teeth and gum problems and can specialise in braces, surgery or implants.",
+    "day": "Examine teeth, do fillings, cleanings and root canals, advise on oral health.",
+    "education": "BDS (5 years); MDS to specialise",
+    "exams": [
+      "NEET UG",
+      "NEET MDS"
+    ],
+    "salary_entry": "4-8",
+    "salary_mid": "12-30",
+    "roadmap": [
+      "Take PCB",
+      "Crack NEET UG",
+      "Complete BDS and internship",
+      "Do MDS (optional)",
+      "Join a clinic or start your own"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Human Anatomy"
+      },
+      {
+        "platform": "DIKSHA",
+        "topic": "NEET preparation"
+      }
+    ],
+    "keywords": [
+      "dentist",
+      "dental",
+      "teeth",
+      "bds"
+    ]
+  },
+  {
+    "id": "chartered_accountant",
+    "name": "Chartered Accountant (CA)",
+    "category": "Commerce, Finance and Business",
+    "streams": [
+      "COM",
+      "PCM",
+      "ARTS"
+    ],
+    "riasec": "CEI",
+    "subjects": [
+      "accounts",
+      "maths",
+      "economics"
+    ],
+    "skills": [
+      "numbers",
+      "detail",
+      "discipline",
+      "logic"
+    ],
+    "summary": "Handles audits, taxes and financial reports for companies and individuals.",
+    "day": "Audit accounts, file taxes, advise companies on money and law.",
+    "education": "CA course from ICAI (Foundation, Intermediate, Final + articleship)",
+    "exams": [
+      "CA Foundation",
+      "CA Intermediate",
+      "CA Final"
+    ],
+    "salary_entry": "7-10",
+    "salary_mid": "15-30",
+    "roadmap": [
+      "Take Commerce with Maths if possible",
+      "Register for CA Foundation",
+      "Clear Intermediate and do 2-3 years of articleship",
+      "Clear CA Final",
+      "Join a firm or practise"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Financial Accounting"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "Accounting and Finance"
+      }
+    ],
+    "keywords": [
+      "ca",
+      "chartered accountant",
+      "audit",
+      "tax",
+      "accounts"
+    ]
+  },
+  {
+    "id": "financial_analyst",
+    "name": "Financial Analyst / Investment Banker",
+    "category": "Commerce, Finance and Business",
+    "streams": [
+      "COM",
+      "PCM"
+    ],
+    "riasec": "ECI",
+    "subjects": [
+      "accounts",
+      "economics",
+      "maths"
+    ],
+    "skills": [
+      "numbers",
+      "logic",
+      "communication",
+      "research"
+    ],
+    "summary": "Studies companies and markets to advise on investments, mergers and funding.",
+    "day": "Build financial models in Excel, study company reports, write investment notes.",
+    "education": "B.Com / BBA / B.Tech, then MBA (Finance) or CFA",
+    "exams": [
+      "CAT (for MBA)",
+      "CFA levels"
+    ],
+    "salary_entry": "5-10",
+    "salary_mid": "15-40",
+    "roadmap": [
+      "Learn accounting and Excel",
+      "Study markets and valuation",
+      "Do CFA Level 1 or an MBA in Finance",
+      "Intern at a bank or broker",
+      "Apply to analyst roles"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Financial Management"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Security Analysis"
+      }
+    ],
+    "keywords": [
+      "finance",
+      "investment",
+      "stock market",
+      "banker",
+      "analyst",
+      "trading"
+    ]
+  },
+  {
+    "id": "company_secretary",
+    "name": "Company Secretary (CS)",
+    "category": "Commerce, Finance and Business",
+    "streams": [
+      "COM",
+      "ARTS"
+    ],
+    "riasec": "CES",
+    "subjects": [
+      "business",
+      "accounts",
+      "languages"
+    ],
+    "skills": [
+      "detail",
+      "writing",
+      "communication",
+      "discipline"
+    ],
+    "summary": "Makes sure a company follows company law and manages board meetings and legal filings.",
+    "day": "Prepare legal filings, organise board meetings, advise directors on rules.",
+    "education": "CS course from ICSI (Executive and Professional)",
+    "exams": [
+      "CSEET",
+      "CS Executive",
+      "CS Professional"
+    ],
+    "salary_entry": "4-7",
+    "salary_mid": "10-20",
+    "roadmap": [
+      "Take Commerce (helpful)",
+      "Clear CSEET",
+      "Clear CS Executive and Professional",
+      "Complete practical training",
+      "Join a company or practise"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Corporate Law"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Business Communication"
+      }
+    ],
+    "keywords": [
+      "company secretary",
+      "cs",
+      "corporate law",
+      "compliance"
+    ]
+  },
+  {
+    "id": "bank_po",
+    "name": "Bank Officer (PO)",
+    "category": "Commerce, Finance and Business",
+    "streams": [
+      "COM",
+      "PCM",
+      "ARTS",
+      "PCB"
+    ],
+    "riasec": "CES",
+    "subjects": [
+      "maths",
+      "economics",
+      "accounts"
+    ],
+    "skills": [
+      "numbers",
+      "communication",
+      "discipline",
+      "detail"
+    ],
+    "summary": "Manages customers, loans and branch work in public sector or private banks.",
+    "day": "Handle customer accounts, approve loans, manage branch staff and targets.",
+    "education": "Any graduation",
+    "exams": [
+      "IBPS PO",
+      "SBI PO",
+      "RBI Grade B"
+    ],
+    "salary_entry": "6-9",
+    "salary_mid": "12-20",
+    "roadmap": [
+      "Complete any degree",
+      "Prepare quant, reasoning and English",
+      "Follow banking awareness and current affairs",
+      "Attempt IBPS / SBI PO",
+      "Clear interview and join"
+    ],
+    "courses": [
+      {
+        "platform": "DIKSHA",
+        "topic": "Quantitative aptitude"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Banking and Financial Services"
+      }
+    ],
+    "keywords": [
+      "bank",
+      "banking",
+      "po",
+      "ibps",
+      "sbi"
+    ]
+  },
+  {
+    "id": "digital_marketer",
+    "name": "Digital Marketer",
+    "category": "Commerce, Finance and Business",
+    "streams": [
+      "COM",
+      "ARTS",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "EAC",
+    "subjects": [
+      "business",
+      "languages",
+      "computers"
+    ],
+    "skills": [
+      "creativity",
+      "communication",
+      "writing",
+      "numbers"
+    ],
+    "summary": "Grows brands online using social media, search engines, ads and content.",
+    "day": "Plan campaigns, write posts and ads, study analytics, improve results week by week.",
+    "education": "BBA / B.Com / BMM or any degree with certifications",
+    "exams": [
+      "None required"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "8-18",
+    "roadmap": [
+      "Learn SEO, social media and ads basics",
+      "Get a free certification (Google / HubSpot)",
+      "Grow a page or blog as practice",
+      "Intern at an agency",
+      "Specialise (SEO, ads, content)"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Digital Marketing"
+      },
+      {
+        "platform": "Skill India Digital",
+        "topic": "Digital marketing"
+      }
+    ],
+    "keywords": [
+      "marketing",
+      "social media",
+      "seo",
+      "ads",
+      "instagram",
+      "brand"
+    ]
+  },
+  {
+    "id": "entrepreneur",
+    "name": "Entrepreneur / Startup Founder",
+    "category": "Commerce, Finance and Business",
+    "streams": [
+      "COM",
+      "PCM",
+      "ARTS",
+      "PCB"
+    ],
+    "riasec": "EAR",
+    "subjects": [
+      "business",
+      "economics"
+    ],
+    "skills": [
+      "leadership",
+      "creativity",
+      "communication",
+      "teamwork"
+    ],
+    "summary": "Starts and runs a new business, from an idea to a working company.",
+    "day": "Talk to customers, build the product, hire people, manage money, raise funds.",
+    "education": "Any degree; BBA / MBA or a technical degree help",
+    "exams": [
+      "None required"
+    ],
+    "salary_entry": "variable",
+    "salary_mid": "variable",
+    "roadmap": [
+      "Find a real problem people pay to solve",
+      "Build a small version (MVP)",
+      "Get first customers",
+      "Learn finance and sales",
+      "Use Startup India and incubators"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Entrepreneurship"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "Entrepreneurship Essentials"
+      }
+    ],
+    "keywords": [
+      "business",
+      "startup",
+      "entrepreneur",
+      "own company",
+      "founder"
+    ]
+  },
+  {
+    "id": "hr_manager",
+    "name": "HR Manager",
+    "category": "Commerce, Finance and Business",
+    "streams": [
+      "COM",
+      "ARTS",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "SEC",
+    "subjects": [
+      "business",
+      "languages"
+    ],
+    "skills": [
+      "communication",
+      "empathy",
+      "leadership",
+      "teamwork"
+    ],
+    "summary": "Hires people, manages employee welfare, salaries and company culture.",
+    "day": "Interview candidates, solve employee issues, plan training, handle payroll policies.",
+    "education": "BBA / any degree, then MBA (HR)",
+    "exams": [
+      "CAT / CMAT / GMAT"
+    ],
+    "salary_entry": "4-7",
+    "salary_mid": "12-25",
+    "roadmap": [
+      "Complete graduation",
+      "Do an MBA in HR",
+      "Intern in an HR team",
+      "Learn labour law basics",
+      "Grow to HR manager"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Human Resource Management"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Organisational Behaviour"
+      }
+    ],
+    "keywords": [
+      "hr",
+      "human resource",
+      "recruitment",
+      "management"
+    ]
+  },
+  {
+    "id": "business_analyst",
+    "name": "Business Analyst",
+    "category": "Commerce, Finance and Business",
+    "streams": [
+      "COM",
+      "PCM"
+    ],
+    "riasec": "CEI",
+    "subjects": [
+      "business",
+      "maths",
+      "computers"
+    ],
+    "skills": [
+      "numbers",
+      "communication",
+      "logic",
+      "teamwork"
+    ],
+    "summary": "Connects business teams and tech teams by turning needs and data into clear requirements.",
+    "day": "Meet stakeholders, analyse data in Excel / SQL, write requirement documents, track projects.",
+    "education": "BBA / B.Com / B.Tech; MBA helps",
+    "exams": [
+      "CAT (optional)"
+    ],
+    "salary_entry": "5-8",
+    "salary_mid": "12-25",
+    "roadmap": [
+      "Learn Excel, SQL and Power BI",
+      "Learn how businesses work",
+      "Practise writing requirements",
+      "Do a project or internship",
+      "Apply for analyst roles"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Business Analytics"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Data Analysis"
+      }
+    ],
+    "keywords": [
+      "business analyst",
+      "analytics",
+      "excel",
+      "power bi",
+      "management"
+    ]
+  },
+  {
+    "id": "journalist",
+    "name": "Journalist / News Reporter",
+    "category": "Arts, Design and Media",
+    "streams": [
+      "ARTS",
+      "COM",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "AES",
+    "subjects": [
+      "languages",
+      "history_civics"
+    ],
+    "skills": [
+      "writing",
+      "communication",
+      "research",
+      "public_speaking"
+    ],
+    "summary": "Finds, checks and reports news for newspapers, TV and digital media.",
+    "day": "Chase stories, interview people, verify facts, write or present reports to deadline.",
+    "education": "BA Journalism and Mass Communication (BJMC) or any degree + diploma",
+    "exams": [
+      "CUET",
+      "IIMC entrance"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "8-18",
+    "roadmap": [
+      "Read and write every day",
+      "Do BJMC or a journalism diploma",
+      "Intern at a newspaper or channel",
+      "Build a portfolio of published stories",
+      "Pick a beat (politics, tech, sports)"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Journalism and Mass Communication"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Media Writing"
+      }
+    ],
+    "keywords": [
+      "journalist",
+      "news",
+      "reporter",
+      "media",
+      "anchor"
+    ]
+  },
+  {
+    "id": "graphic_designer",
+    "name": "Graphic Designer",
+    "category": "Arts, Design and Media",
+    "streams": [
+      "ARTS",
+      "COM",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "AER",
+    "subjects": [
+      "art_design",
+      "computers"
+    ],
+    "skills": [
+      "creativity",
+      "visual",
+      "detail",
+      "communication"
+    ],
+    "summary": "Creates logos, posters, social media posts and brand visuals.",
+    "day": "Read the brief, sketch ideas, design in Photoshop / Illustrator / Canva, revise with clients.",
+    "education": "B.Des / BFA / diploma in graphic design",
+    "exams": [
+      "NID DAT",
+      "UCEED",
+      "NIFT"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "8-15",
+    "roadmap": [
+      "Practise drawing and design basics",
+      "Learn Photoshop, Illustrator and Figma",
+      "Build a portfolio (Behance)",
+      "Freelance or intern",
+      "Specialise (branding, motion, UI)"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Graphic Design"
+      },
+      {
+        "platform": "Skill India Digital",
+        "topic": "Graphic design"
+      }
+    ],
+    "keywords": [
+      "graphic design",
+      "logo",
+      "poster",
+      "photoshop",
+      "canva",
+      "design"
+    ]
+  },
+  {
+    "id": "fashion_designer",
+    "name": "Fashion Designer",
+    "category": "Arts, Design and Media",
+    "streams": [
+      "ARTS",
+      "COM",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "AER",
+    "subjects": [
+      "art_design"
+    ],
+    "skills": [
+      "creativity",
+      "visual",
+      "hands_on",
+      "detail"
+    ],
+    "summary": "Designs clothes and accessories and follows them from sketch to store.",
+    "day": "Research trends, sketch collections, choose fabrics, work with tailors and brands.",
+    "education": "B.Des Fashion (NIFT, NID, private colleges)",
+    "exams": [
+      "NIFT entrance",
+      "NID DAT"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "8-20",
+    "roadmap": [
+      "Practise sketching",
+      "Crack NIFT / NID",
+      "Learn fabrics, pattern-making and CAD",
+      "Intern with a designer or brand",
+      "Launch a collection or join a label"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Fashion Design"
+      },
+      {
+        "platform": "Skill India Digital",
+        "topic": "Apparel"
+      }
+    ],
+    "keywords": [
+      "fashion",
+      "clothes",
+      "designer",
+      "nift",
+      "textile"
+    ]
+  },
+  {
+    "id": "content_writer",
+    "name": "Content Writer / Author",
+    "category": "Arts, Design and Media",
+    "streams": [
+      "ARTS",
+      "COM",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "AIS",
+    "subjects": [
+      "languages",
+      "history_civics"
+    ],
+    "skills": [
+      "writing",
+      "creativity",
+      "research",
+      "detail"
+    ],
+    "summary": "Writes blogs, website text, scripts, books and social media content.",
+    "day": "Research a topic, write and edit articles or scripts, meet deadlines, optimise for SEO.",
+    "education": "BA English / Journalism or any degree",
+    "exams": [
+      "None required"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "7-15",
+    "roadmap": [
+      "Write daily and read widely",
+      "Start a blog or page",
+      "Learn SEO basics",
+      "Freelance for small clients",
+      "Build a niche (tech, finance, travel)"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Creative Writing"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "English Communication"
+      }
+    ],
+    "keywords": [
+      "writer",
+      "writing",
+      "blog",
+      "content",
+      "author",
+      "copywriter"
+    ]
+  },
+  {
+    "id": "video_editor",
+    "name": "Film / Video Editor and Creator",
+    "category": "Arts, Design and Media",
+    "streams": [
+      "ARTS",
+      "COM",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "AER",
+    "subjects": [
+      "art_design",
+      "languages"
+    ],
+    "skills": [
+      "creativity",
+      "visual",
+      "hands_on",
+      "detail"
+    ],
+    "summary": "Edits films, YouTube videos, reels and ads, or creates video content.",
+    "day": "Cut footage, add sound and effects, colour-correct, publish and study analytics.",
+    "education": "Diploma / degree in film, animation or mass media, or self-taught",
+    "exams": [
+      "FTII / SRFTI entrance (optional)"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "8-18",
+    "roadmap": [
+      "Learn Premiere Pro / DaVinci Resolve",
+      "Edit short videos every week",
+      "Learn storytelling and sound",
+      "Build a showreel",
+      "Freelance, join a studio or grow a channel"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Film Studies"
+      },
+      {
+        "platform": "Skill India Digital",
+        "topic": "Media and entertainment"
+      }
+    ],
+    "keywords": [
+      "video",
+      "editing",
+      "youtube",
+      "film",
+      "movie",
+      "reels",
+      "creator"
+    ]
+  },
+  {
+    "id": "architect",
+    "name": "Architect",
+    "category": "Arts, Design and Media",
+    "streams": [
+      "PCM"
+    ],
+    "riasec": "ARI",
+    "subjects": [
+      "maths",
+      "art_design",
+      "physics"
+    ],
+    "skills": [
+      "visual",
+      "creativity",
+      "detail",
+      "hands_on"
+    ],
+    "summary": "Designs buildings and spaces that are safe, useful and beautiful.",
+    "day": "Meet clients, sketch and model designs, prepare drawings, visit construction sites.",
+    "education": "B.Arch (5 years)",
+    "exams": [
+      "NATA",
+      "JEE Main Paper 2"
+    ],
+    "salary_entry": "3-6",
+    "salary_mid": "10-25",
+    "roadmap": [
+      "Take PCM",
+      "Crack NATA / JEE Paper 2",
+      "Complete B.Arch",
+      "Learn AutoCAD, Revit and SketchUp",
+      "Register with the Council of Architecture"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Architectural Design"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Building Materials"
+      }
+    ],
+    "keywords": [
+      "architect",
+      "architecture",
+      "building design",
+      "interior"
+    ]
+  },
+  {
+    "id": "civil_services",
+    "name": "Civil Services (IAS / IPS)",
+    "category": "Government, Law and Defence",
+    "streams": [
+      "ARTS",
+      "COM",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "ESI",
+    "subjects": [
+      "history_civics",
+      "economics",
+      "geography"
+    ],
+    "skills": [
+      "leadership",
+      "communication",
+      "research",
+      "discipline"
+    ],
+    "summary": "Runs districts, police and government departments and puts public policy into action.",
+    "day": "Manage a district or department, solve public problems, handle law and order and welfare schemes.",
+    "education": "Any graduation",
+    "exams": [
+      "UPSC Civil Services Exam",
+      "State PSC exams"
+    ],
+    "salary_entry": "10-14",
+    "salary_mid": "18-30",
+    "roadmap": [
+      "Complete any degree",
+      "Read newspapers and NCERT books daily",
+      "Prepare for UPSC Prelims, Mains and Interview",
+      "Practise answer writing",
+      "Be patient: it often takes 2-3 attempts"
+    ],
+    "courses": [
+      {
+        "platform": "DIKSHA",
+        "topic": "NCERT History, Polity, Geography"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Indian Polity"
+      }
+    ],
+    "keywords": [
+      "ias",
+      "ips",
+      "upsc",
+      "collector",
+      "government",
+      "civil services"
+    ]
+  },
+  {
+    "id": "lawyer",
+    "name": "Lawyer",
+    "category": "Government, Law and Defence",
+    "streams": [
+      "ARTS",
+      "COM",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "EIS",
+    "subjects": [
+      "history_civics",
+      "languages"
+    ],
+    "skills": [
+      "communication",
+      "public_speaking",
+      "research",
+      "writing"
+    ],
+    "summary": "Advises clients and argues cases in court on criminal, corporate, family and other law.",
+    "day": "Read case files, research law, draft documents, argue in court, advise clients.",
+    "education": "5-year integrated LLB (BA LLB / BBA LLB) or 3-year LLB after graduation",
+    "exams": [
+      "CLAT",
+      "AILET",
+      "LSAT India"
+    ],
+    "salary_entry": "4-10",
+    "salary_mid": "12-40",
+    "roadmap": [
+      "Prepare for CLAT",
+      "Complete LLB",
+      "Intern with lawyers and firms",
+      "Clear the All India Bar Exam",
+      "Choose litigation, corporate law or judiciary"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Constitutional Law"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Legal Writing"
+      }
+    ],
+    "keywords": [
+      "lawyer",
+      "advocate",
+      "law",
+      "llb",
+      "court",
+      "judge",
+      "clat"
+    ]
+  },
+  {
+    "id": "defence_officer",
+    "name": "Defence Officer (Army / Navy / Air Force)",
+    "category": "Government, Law and Defence",
+    "streams": [
+      "PCM",
+      "ARTS",
+      "COM",
+      "PCB"
+    ],
+    "riasec": "RES",
+    "subjects": [
+      "sports",
+      "physics",
+      "maths"
+    ],
+    "skills": [
+      "discipline",
+      "leadership",
+      "teamwork",
+      "hands_on"
+    ],
+    "summary": "Leads soldiers, sailors or airmen and protects the country.",
+    "day": "Train daily, lead a unit, plan operations, serve in different parts of India.",
+    "education": "NDA after Class 12, or CDS / AFCAT after graduation",
+    "exams": [
+      "NDA",
+      "CDS",
+      "AFCAT",
+      "SSB Interview"
+    ],
+    "salary_entry": "10-14",
+    "salary_mid": "18-30",
+    "roadmap": [
+      "Build fitness every day",
+      "Take PCM for Navy / Air Force (NDA)",
+      "Prepare for NDA / CDS / AFCAT",
+      "Clear the 5-day SSB interview",
+      "Complete academy training"
+    ],
+    "courses": [
+      {
+        "platform": "DIKSHA",
+        "topic": "Mathematics for NDA"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "General Studies"
+      }
+    ],
+    "keywords": [
+      "army",
+      "navy",
+      "air force",
+      "defence",
+      "nda",
+      "soldier",
+      "pilot"
+    ]
+  },
+  {
+    "id": "police_ssc",
+    "name": "Police / SSC Government Officer",
+    "category": "Government, Law and Defence",
+    "streams": [
+      "ARTS",
+      "COM",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "CRE",
+    "subjects": [
+      "history_civics",
+      "maths",
+      "sports"
+    ],
+    "skills": [
+      "discipline",
+      "numbers",
+      "teamwork",
+      "communication"
+    ],
+    "summary": "Works in central or state government departments, tax, police or ministries through SSC and state exams.",
+    "day": "Handle office or field duties, enforce rules, manage records and public services.",
+    "education": "Any graduation (some posts after Class 12)",
+    "exams": [
+      "SSC CGL",
+      "SSC CHSL",
+      "State police exams"
+    ],
+    "salary_entry": "4-7",
+    "salary_mid": "8-15",
+    "roadmap": [
+      "Complete graduation",
+      "Prepare quant, reasoning, English and GK",
+      "Follow current affairs",
+      "Attempt SSC CGL / state exams",
+      "Clear physical test where required"
+    ],
+    "courses": [
+      {
+        "platform": "DIKSHA",
+        "topic": "Quantitative aptitude"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "General awareness"
+      }
+    ],
+    "keywords": [
+      "police",
+      "ssc",
+      "government job",
+      "cgl",
+      "sarkari"
+    ]
+  },
+  {
+    "id": "teacher",
+    "name": "Teacher / Professor",
+    "category": "Government, Law and Defence",
+    "streams": [
+      "ARTS",
+      "COM",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "SAI",
+    "subjects": [
+      "languages",
+      "maths",
+      "biology",
+      "history_civics"
+    ],
+    "skills": [
+      "communication",
+      "empathy",
+      "public_speaking",
+      "research"
+    ],
+    "summary": "Teaches students in schools, colleges or online, and can do research as a professor.",
+    "day": "Plan lessons, teach classes, check work, guide students, do research (college).",
+    "education": "B.Ed for school; Master's + NET / PhD for college",
+    "exams": [
+      "CTET / TET",
+      "UGC NET",
+      "CSIR NET"
+    ],
+    "salary_entry": "3-6",
+    "salary_mid": "8-20",
+    "roadmap": [
+      "Graduate in the subject you love",
+      "Do B.Ed (school) or Master's (college)",
+      "Clear TET or NET",
+      "Practise teaching (tuitions, internships)",
+      "Do a PhD for professorship"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Pedagogy and Teaching"
+      },
+      {
+        "platform": "DIKSHA",
+        "topic": "Teacher training"
+      }
+    ],
+    "keywords": [
+      "teacher",
+      "teaching",
+      "professor",
+      "lecturer",
+      "education"
+    ]
+  },
+  {
+    "id": "research_scientist",
+    "name": "Research Scientist",
+    "category": "Science and Research",
+    "streams": [
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "IRA",
+    "subjects": [
+      "physics",
+      "chemistry",
+      "maths",
+      "biology"
+    ],
+    "skills": [
+      "research",
+      "logic",
+      "detail",
+      "writing"
+    ],
+    "summary": "Does experiments and studies to discover new knowledge in labs like ISRO, DRDO and universities.",
+    "day": "Plan experiments, collect and analyse data, read papers, write and publish results.",
+    "education": "B.Sc / BS-MS, M.Sc, then PhD",
+    "exams": [
+      "IIT JAM",
+      "IISER Aptitude Test",
+      "CSIR NET",
+      "GATE"
+    ],
+    "salary_entry": "5-8",
+    "salary_mid": "12-25",
+    "roadmap": [
+      "Take Science and love one subject",
+      "Do B.Sc / BS-MS (IISER, IISc)",
+      "Do an M.Sc and research internships",
+      "Clear NET / GATE for a PhD",
+      "Publish and join a lab"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Research Methodology"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "core science courses"
+      }
+    ],
+    "keywords": [
+      "scientist",
+      "research",
+      "isro",
+      "drdo",
+      "lab",
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "biotechnologist",
+    "name": "Biotechnologist",
+    "category": "Science and Research",
+    "streams": [
+      "PCB",
+      "PCM"
+    ],
+    "riasec": "IRC",
+    "subjects": [
+      "biology",
+      "chemistry"
+    ],
+    "skills": [
+      "research",
+      "detail",
+      "hands_on",
+      "logic"
+    ],
+    "summary": "Uses living cells and biology to make medicines, vaccines, crops and green products.",
+    "day": "Run lab experiments, culture cells, test samples, record and analyse data.",
+    "education": "B.Tech / B.Sc Biotechnology; M.Sc / PhD for research",
+    "exams": [
+      "JEE Main",
+      "CUET",
+      "GAT-B"
+    ],
+    "salary_entry": "3-6",
+    "salary_mid": "8-18",
+    "roadmap": [
+      "Take PCB (or PCM)",
+      "Do B.Tech / B.Sc Biotechnology",
+      "Get lab internships",
+      "Do an M.Sc / M.Tech",
+      "Join pharma, vaccine or agri-biotech firms"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Biotechnology"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "Molecular Biology"
+      }
+    ],
+    "keywords": [
+      "biotech",
+      "biotechnology",
+      "vaccine",
+      "genetics",
+      "lab"
+    ]
+  },
+  {
+    "id": "environmental_scientist",
+    "name": "Environmental Scientist",
+    "category": "Science and Research",
+    "streams": [
+      "PCB",
+      "PCM",
+      "ARTS"
+    ],
+    "riasec": "IRS",
+    "subjects": [
+      "geography",
+      "biology",
+      "chemistry"
+    ],
+    "skills": [
+      "research",
+      "hands_on",
+      "writing",
+      "detail"
+    ],
+    "summary": "Studies pollution, climate and nature and helps protect the environment.",
+    "day": "Collect field samples, test air and water, write impact reports, advise on policy.",
+    "education": "B.Sc / M.Sc Environmental Science",
+    "exams": [
+      "CUET",
+      "IIT JAM"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "8-15",
+    "roadmap": [
+      "Study science or geography",
+      "Do B.Sc / M.Sc Environmental Science",
+      "Do field projects and internships",
+      "Learn GIS tools",
+      "Join NGOs, consultancies or pollution boards"
+    ],
+    "courses": [
+      {
+        "platform": "NPTEL",
+        "topic": "Environmental Science"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Climate Change"
+      }
+    ],
+    "keywords": [
+      "environment",
+      "climate",
+      "nature",
+      "pollution",
+      "wildlife"
+    ]
+  },
+  {
+    "id": "hotel_management",
+    "name": "Hotel Management / Chef",
+    "category": "Other Professional Careers",
+    "streams": [
+      "ARTS",
+      "COM",
+      "PCM",
+      "PCB"
+    ],
+    "riasec": "ERS",
+    "subjects": [
+      "business",
+      "languages"
+    ],
+    "skills": [
+      "communication",
+      "hands_on",
+      "teamwork",
+      "creativity"
+    ],
+    "summary": "Runs hotels, restaurants and kitchens, or cooks as a professional chef.",
+    "day": "Manage guests and staff, plan menus, cook, control quality and cost.",
+    "education": "BHM / B.Sc Hospitality",
+    "exams": [
+      "NCHM JEE"
+    ],
+    "salary_entry": "3-5",
+    "salary_mid": "8-18",
+    "roadmap": [
+      "Crack NCHM JEE",
+      "Complete BHM",
+      "Do industrial training in a hotel",
+      "Choose kitchen, front office or management",
+      "Grow in hotels, cruise ships or open a restaurant"
+    ],
+    "courses": [
+      {
+        "platform": "Skill India Digital",
+        "topic": "Hospitality and tourism"
+      },
+      {
+        "platform": "SWAYAM",
+        "topic": "Food production"
+      }
+    ],
+    "keywords": [
+      "hotel",
+      "chef",
+      "cooking",
+      "restaurant",
+      "hospitality",
+      "tourism"
+    ]
+  },
+  {
+    "id": "commercial_pilot",
+    "name": "Commercial Pilot",
+    "category": "Other Professional Careers",
+    "streams": [
+      "PCM"
+    ],
+    "riasec": "RIC",
+    "subjects": [
+      "physics",
+      "maths"
+    ],
+    "skills": [
+      "discipline",
+      "detail",
+      "hands_on",
+      "teamwork"
+    ],
+    "summary": "Flies passenger and cargo aircraft for airlines.",
+    "day": "Plan flights, check the aircraft, fly safely, talk with air traffic control.",
+    "education": "Commercial Pilot Licence (CPL) from a DGCA-approved flying school",
+    "exams": [
+      "DGCA CPL exams",
+      "Class 1 medical"
+    ],
+    "salary_entry": "10-20",
+    "salary_mid": "30-60",
+    "roadmap": [
+      "Take PCM in Class 12",
+      "Clear the DGCA Class 2 and Class 1 medical",
+      "Join a flying school (high cost)",
+      "Complete 200 flying hours and CPL",
+      "Get a type rating and join an airline"
+    ],
+    "courses": [
+      {
+        "platform": "SWAYAM",
+        "topic": "Physics"
+      },
+      {
+        "platform": "NPTEL",
+        "topic": "Aircraft Performance"
+      }
+    ],
+    "keywords": [
+      "pilot",
+      "aviation",
+      "airline",
+      "flying",
+      "aeroplane"
+    ]
+  }
+]
