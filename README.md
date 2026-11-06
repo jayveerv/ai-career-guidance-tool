@@ -3,6 +3,8 @@
 B.Tech 6th Semester Minor Project, Parul Institute of Technology, Parul University.
 Team: Ayush Kumar, Divya Patel, Jayveerkumar Vasava · Supervisor: Dr. Bijal Talati
 
+**Live app:** https://ai-career-guidance-tool-z69smste3d9upcvsmjrlwv.streamlit.app
+
 A web app that helps students choose a career. The student enters their stream,
 favourite subjects, skills and goal, and answers an 18-question interest quiz.
 The AI engine then returns the **top 5 matching careers** with a match %, the
